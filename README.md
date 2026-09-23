@@ -116,12 +116,8 @@ This is a starter template with placeholder functions. Your task is to implement
    - Implement the `process_profile` function
    - Implement the `chat_with_profile` function
 
-## License
+## Acknowledgements
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Built as part of the [IBM RAG and Agentic AI Professional Certificate](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai), offered by IBM through Coursera. The certificate covers LangChain, LangGraph, RAG pipelines, vector databases, multimodal AI, and agentic frameworks such as CrewAI, AG2, BeeAI, and the Model Context Protocol.
 
-## Acknowledgments
-
-- IBM watsonx.ai for providing the LLM and embedding models
-- LlamaIndex for the data indexing and retrieval framework
-- ProxyCurl for LinkedIn profile data extraction
+Model access is provided by [IBM watsonx.ai](https://www.ibm.com/products/watsonx-ai).
